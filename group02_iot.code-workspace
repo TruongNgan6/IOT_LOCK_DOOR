@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Arduino_Uno",
+			"path": "../PlatformIO/Projects/Arduino_Uno"
+		}
+	],
+	"settings": {}
+}
